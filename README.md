@@ -1,7 +1,7 @@
 # EasyPrefs
 A light weight & elegent NSUserDefaults wrapper
 
-# Perpose
+# Purpose
 Make NSUserDefaults more easy to use, treat preferences as properties
 
 # Setup
