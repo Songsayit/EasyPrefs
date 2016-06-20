@@ -1,4 +1,4 @@
-[🇨🇳中文介绍](https://github.com/cyanzhong/EasyPrefs/edit/master/README_CN.md)
+[🇨🇳中文介绍](https://github.com/cyanzhong/EasyPrefs/blob/master/README_CN.md)
 
 # EasyPrefs
 A light weight & elegent NSUserDefaults wrapper
