@@ -2,9 +2,9 @@
 ![Language](https://img.shields.io/badge/language-objc-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-🇨🇳[中文介绍](https://github.com/cyanzhong/EasyPrefs/blob/master/README_CN.md)
+Light weight & elegent NSUserDefaults wrapper
 
-A light weight & elegent NSUserDefaults wrapper
+🇨🇳[中文介绍](https://github.com/cyanzhong/EasyPrefs/blob/master/README_CN.md)
 
 # Purpose
 Make NSUserDefaults more easy to use, treat preferences as properties
