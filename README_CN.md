@@ -1,4 +1,7 @@
 # EasyPrefs
+![Language](https://img.shields.io/badge/language-objc-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 一个轻量、优雅的 NSUserDefaults 封装
 
 # 目的
