@@ -1,6 +1,9 @@
+# EasyPrefs
+![Language](https://img.shields.io/badge/language-objc-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 🇨🇳[中文介绍](https://github.com/cyanzhong/EasyPrefs/blob/master/README_CN.md)
 
-# EasyPrefs
 A light weight & elegent NSUserDefaults wrapper
 
 # Purpose
