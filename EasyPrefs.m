@@ -142,7 +142,9 @@ typedef void (^EasyPrefsPropertyEnumerateBlock) (NSString *property);
         } else {
             SEL defaultValueSelector = NSSelectorFromString([NSString stringWithFormat:@"%@DefaultValue", property]);
             id defaultValue = [self valueForEasyPrefsSelecor:defaultValueSelector];
-            [self setValue:defaultValue forKey:property];
+            if (defaultValue) {
+                [self setValue:defaultValue forKey:property];
+            }
         }
     }];
 }
